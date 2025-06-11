@@ -9,7 +9,7 @@ Challenge yourself to guess the mystery word letter by letter before the hangman
 ## ✨ Features
 
 - 🎲 **Random Word Selection** - Fresh challenge every time
-- 🎨 **ASCII Art Visuals** - Beautiful hangman stages and logo
+- 🎨 **ASCII Art Visuals** - Hangman stages and logo
 - ❤️ **6 Lives System** - One life lost per wrong guess
 - 🚫 **Duplicate Prevention** - No repeated letter guesses
 - 📊 **Real-time Progress** - See your word completion status
@@ -26,16 +26,13 @@ Challenge yourself to guess the mystery word letter by letter before the hangman
 
 ## 📋 Requirements
 
-Create these modules alongside your main game:
-- 📝 `hangman_words.py` - Contains `word_list` array
-- 🎨 `hangman_art.py` - Contains `stages` drawings and `logo`
+Enter English alphabet letters only
 
 ## 🚀 Quick Start
 
-1. Install Python 3.x
-2. Create the required modules above
-3. Run the hangman script
-4. Start guessing! 🤔
+1. Install Python
+2. Run the hangman script
+3. Start guessing! 🤔
 
 ## 📱 Example Gameplay
 
